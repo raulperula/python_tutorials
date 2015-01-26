@@ -6,7 +6,7 @@ __date__ = "2015-01"
 __version__ = "$ Revision: 1.0 $"
 
 import sys
-from example9 import *
+from example09 import *
 
 
 class MyForm(QtGui.QDialog):
