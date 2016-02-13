@@ -6,6 +6,7 @@ __date__ = "2015-01"
 __version__ = "$ Revision: 1.0 $"
 
 import sys
+import atexit
 from PyQt4 import QtGui, QtCore
 
 
